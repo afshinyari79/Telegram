@@ -1,5 +1,82 @@
-کانال @proxydaemi دزدیده شده است
-این کانال همینک در دست کلاهبرداران میباشد
-و توسط اونها اداره میشود تیم پروکسی دائمی
-تلگرام همینک فقط در دوکانال @P1000Y و 
-@P500Y فعالیت میکند
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>لیست پروکسی‌های تلگرام</title>
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background-color: #f2f6f9;
+      color: #333;
+      padding: 30px;
+    }
+    h2 {
+      text-align: center;
+      color: #0077cc;
+      margin-bottom: 10px;
+    }
+    p {
+      text-align: center;
+      margin-bottom: 25px;
+      font-size: 15px;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 40px;
+    }
+    .column {
+      flex: 1;
+      min-width: 280px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    li {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      margin-bottom: 15px;
+      padding: 12px;
+      transition: background 0.3s ease;
+    }
+    li:hover {
+      background-color: #e6f0ff;
+    }
+    a {
+      text-decoration: none;
+      color: #0077cc;
+      font-weight: bold;
+    }
+    a:hover {
+      color: #004466;
+    }
+  </style>
+</head>
+<body>
+  <h2>✅ لیست پروکسی‌های MTProto</h2>
+  <p>روی هر لینک کلیک کن تا فقط پروکسی فعال بشه بدون هدایت اضافی 👇</p>
+
+  <div class="container">
+    <div class="column">
+      <ul>
+        <li><a href="https://t.me/proxy?server=example1.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۱</a></li>
+        <li><a href="https://t.me/proxy?server=example2.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۲</a></li>
+        <li><a href="https://t.me/proxy?server=example3.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۳</a></li>
+        <li><a href="https://t.me/proxy?server=example4.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۴</a></li>
+        <li><a href="https://t.me/proxy?server=example5.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۵</a></li>
+        <li><a href="https://t.me/proxy?server=example6.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۶</a></li>
+        <li><a href="https://t.me/proxy?server=example7.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۷</a></li>
+        <li><a href="https://t.me/proxy?server=example8.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۸</a></li>
+        <li><a href="https://t.me/proxy?server=example9.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۹</a></li>
+        <li><a href="https://t.me/proxy?server=example10.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۱۰</a></li>
+        <li><a href="https://t.me/proxy?server=example11.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۱۱</a></li>
+        <li><a href="https://t.me/proxy?server=example12.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۱۲</a></li>
+        <li><a href="https://t.me/proxy?server=example13.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۱۳</a></li>
+        <li><a href="https://t.me/proxy?server=example14.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۱۴</a></li>
+        <li><a href="https://t.me/proxy?server=example15.com&port=443&secret=ee16030102...">اتصال به پروکسی شماره ۱۵</a></li>
+      </ul>
+    </div>
